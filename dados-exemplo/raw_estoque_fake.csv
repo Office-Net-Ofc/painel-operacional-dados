@@ -1,1 +1,11 @@
-
+produto,categoria,quantidade_atual,estoque_minimo,custo_unitario,data_ultima_movimentacao
+ONU Intelbras 110,Equipamentos,5,10,180.00,2025-01-12
+ONU Huawei EG8145,Equipamentos,18,15,210.00,2025-01-18
+Cabo Drop 2FO,Infraestrutura,320,200,1.80,2025-01-20
+Conector SC/APC,Infraestrutura,45,50,3.50,2024-12-10
+Roteador TP-Link C6,Equipamentos,8,12,260.00,2025-01-05
+Patch Cord SC/APC,Infraestrutura,90,60,6.20,2025-01-22
+Caixa CTO 8 portas,Infraestrutura,3,5,95.00,2024-11-30
+Fonte 12V 2A,Equipamentos,25,20,22.00,2025-01-19
+Splitter 1x8,Infraestrutura,6,10,48.00,2024-12-02
+Abraçadeira Nylon,Consumíveis,500,300,0.15,2025-01-21
